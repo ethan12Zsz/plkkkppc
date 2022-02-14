@@ -1,0 +1,13 @@
+{
+  "subscriptions": [
+    {
+      "id": "69870t",
+      "url": "https://www.vinted.fr/vetements?search_text=nike&price_to=25&currency=EUR",
+      "channelID": "942535984770318386"
+    }
+  ],
+  "last_item_ts_mvg4lx": 1644791958000,
+  "last_item_ts_lpt5mv": 1644792120000,
+  "last_item_ts_69870t": 1644877461000,
+  "is_first_sync": false
+}
